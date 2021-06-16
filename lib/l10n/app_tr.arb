@@ -1,0 +1,5 @@
+{
+    "language": "Turkish",
+    "helloWorld": "Merhaba Dünya!",
+    "hello": "Merhaba {username}"
+}
