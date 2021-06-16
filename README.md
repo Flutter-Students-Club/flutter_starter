@@ -54,4 +54,10 @@ If you need to use created hook inside the StatelessWidget just use StatefulWrap
 
 - Manage your theme settings.
 
+## Localization
+
+- For localization you can use `.arb` files.
+- Create .arb files inside the `lib/I10n`
+- And run this command for generate language files `flutter gen-l10n` 
+
 ![logo](https://camo.githubusercontent.com/98aed372ee2f2b5bbc399ae315200884dcade966ce015e0a9c0207fdd28f80bc/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3833303130363532393831333439353833382f3833303130363739383834303038363535382f43616c736d615f59757a6579695f322d3130302e6a7067)
