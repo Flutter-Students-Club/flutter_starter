@@ -1,3 +1,3 @@
 extension DateTimeExtensions on DateTime {
-  String get getPublishTime => "${this.day}/${this.month}/${this.year}";
+  String get getFormattedDate => "${this.day}/${this.month}/${this.year}";
 }
